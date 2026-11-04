@@ -60,7 +60,7 @@ The burn share is a setting, not a constant, so anyone can watch it: read `burnB
 | `ScanAttestor` | [`0x63974DA2979b3dA762204d25d080c46E96aB7656`](https://robinhoodchain.blockscout.com/address/0x63974DA2979b3dA762204d25d080c46E96aB7656) | Report hook: writes the ERC-7512 summary and the ERC-8004 validation response |
 | ERC-8004 Identity Registry (official) | [`0x8004A169FB4a3325136EB29fA0ceB6D2e539a432`](https://robinhoodchain.blockscout.com/address/0x8004A169FB4a3325136EB29fA0ceB6D2e539a432) | Holds agent #20727, "BYTEJURY Jury" |
 
-`ScanPayments` was deployed at block 105,415,838. The `$BJRY` token address will be listed here once the contract points to it.
+`ScanPayments` was deployed at block 105,415,838. The `$BYTE` token address will be listed here once the contract points to it.
 
 ## How a paid audit works
 
